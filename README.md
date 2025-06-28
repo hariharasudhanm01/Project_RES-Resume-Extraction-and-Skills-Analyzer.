@@ -35,6 +35,9 @@ cd Project_RES-Resume-Extraction-and-Skills-Analyzer
 pip install -r requirements.txt
 python app.py
 ```
+### Output
+
+![image](https://github.com/user-attachments/assets/e76c42f6-6dcf-4540-8312-560216ef67ea)
 
 ### Use Cases
 
